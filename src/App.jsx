@@ -39,7 +39,7 @@ const Project = ({ title, description, link }) => (
       {title}
     </Heading>
     <Text>{description}</Text>
-    <Button as="a" href={link} target="_blank" colorScheme="blue">
+    <Button as="a" href={link} target="_blank" colorScheme="blue" mt={2}>
       View Project
     </Button>
   </Box>
