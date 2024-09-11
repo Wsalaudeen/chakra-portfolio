@@ -72,7 +72,10 @@ function Portfolio() {
         >
           {/* About me section */}
           <Box>
-            <Heading mb={4}>Olanrewaju / About Me</Heading>
+            <Heading mb={4}>
+              Olanrewaju / About Me / I'm currently learning Chakra UI and built
+              this portfolio as part of my practice.
+            </Heading>
             <Text>
               {" "}
               Hello! I'm a web developer passionate about creating beautiful and
