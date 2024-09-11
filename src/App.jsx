@@ -114,6 +114,8 @@ function Portfolio() {
               <Skill name="web accessibility" />
               <Skill name="Tailwind css" />
               <Skill name="chakra UI" />
+              <Skill name="Typescript" />
+              <Skill name="firebase" />
             </SimpleGrid>
           </Box>
           {/* contact form */}
